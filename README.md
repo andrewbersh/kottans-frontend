@@ -15,4 +15,10 @@ LearningItBranching: [done1/2✅](task_git_collaboration/learning-it-branching-g
 
 --- 
 ## Linux CLI and Networking
-Currently in progress...
+Learned a lot of new linux commands and figured out how to use some old in different way. Finally, I understand how "|" works.
+
+Read about HTTP protocol, together with new cli commands it will be really useful even on my current job as system engineer.
+
+Linux Survival: ([done✅](task_linux_cli/conclusion.png))
+
+All quizes results are [here](task_linux_cli/)
