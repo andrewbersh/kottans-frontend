@@ -8,9 +8,9 @@
 ## GIT Basics
 Good to recall some basic knowledge. Now I finally understand how git works and how to work with branches
 
-Udacity: [done✅](../screenshots/udacity-git.png)
+Udacity: [done✅](../task_git_collaboration/udacity-git.png)
 
-LearningItBranching: [done1/2✅](..screenshots/learning-it-branching-git-1.png) [done2/2✅](..screenshots/learning-it-branching-git-1.png)
+LearningItBranching: [done1/2✅](..task_git_collaboration/learning-it-branching-git-1.png) [done2/2✅](..screenshots/learning-it-branching-git-1.png)
 
 
 --- 
