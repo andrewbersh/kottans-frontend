@@ -4,6 +4,7 @@
  This course is really awesome, I'm amazed how people
  can help each other to learn something useful and new. Hope I'll help somebody too:)
 
+
 --- 
 ## GIT Basics
 Good to recall some basic knowledge. Now I finally understand how git works and how to work
@@ -11,7 +12,7 @@ with branches
 
 
 <details>
-<summary>Results ✅</summary>
+<summary>Results</summary>
 
 ![Screenshot](task_git_collaboration/udacity-git.png)
 ![Screenshot](task_git_collaboration/learning-it-branching-git-1.png)
@@ -28,7 +29,7 @@ on my current job as system engineer.
 
 
 <details>
-<summary>Results ✅</summary>
+<summary>Results</summary>
 
 ![Screenshot](task_linux_cli/conclusion.png)
 ![Screenshot](task_linux_cli/q1.png)
@@ -36,7 +37,6 @@ on my current job as system engineer.
 ![Screenshot](task_linux_cli/q3.png)
 ![Screenshot](task_linux_cli/q4.png)
 </details>
-
 
 ---
 ## Git Collaboration
@@ -46,13 +46,12 @@ the future.
 
 
 <details>
-<summary>Results ✅</summary>
+<summary>Results</summary>
 
-![Screenshot](task_git_collaboration/learning-it-branching-git-3.PNG)
-![Screenshot](task_git_collaboration/learning-it-branching-git-4.PNG)
-![Screenshot](task_git_collaboration/week3.PNG)
-![Screenshot](task_git_collaboration/week4.PNG)
+![Screenshot](task_git_collaboration/learning-it-branching-git-3.png)
+![Screenshot](task_git_collaboration/learning-it-branching-git-4.png)
+![Screenshot](task_git_collaboration/week3.png)
+![Screenshot](task_git_collaboration/week4.png)
 </details>
-
 
 ---
