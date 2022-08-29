@@ -12,11 +12,11 @@ with branches
 
 
 <details>
-<summary>Results</summary>
-
-![Screenshot](task_git_collaboration/udacity-git.png)
-![Screenshot](task_git_collaboration/learning-it-branching-git-1.png)
-![Screenshot](task_git_collaboration/learning-it-branching-git-1.png)
+ <summary>Results</summary>
+ 
+ ![Screenshot](task_git_collaboration/udacity-git.png)
+ ![Screenshot](task_git_collaboration/learning-it-branching-git-1.png)
+ ![Screenshot](task_git_collaboration/learning-it-branching-git-1.png)
 </details>
 
 --- 
@@ -29,13 +29,13 @@ on my current job as system engineer.
 
 
 <details>
-<summary>Results</summary>
+ <summary>Results</summary>
 
-![Screenshot](task_linux_cli/conclusion.png)
-![Screenshot](task_linux_cli/q1.png)
-![Screenshot](task_linux_cli/q2.png)
-![Screenshot](task_linux_cli/q3.png)
-![Screenshot](task_linux_cli/q4.png)
+ ![Screenshot](task_linux_cli/conclusion.png)
+ ![Screenshot](task_linux_cli/q1.png)
+ ![Screenshot](task_linux_cli/q2.png)
+ ![Screenshot](task_linux_cli/q3.png)
+ ![Screenshot](task_linux_cli/q4.png)
 </details>
 
 ---
@@ -46,12 +46,25 @@ the future.
 
 
 <details>
-<summary>Results</summary>
+ <summary>Results</summary>
 
-![Screenshot](task_git_collaboration/learning-it-branching-git-3.png)
-![Screenshot](task_git_collaboration/learning-it-branching-git-4.png)
-![Screenshot](task_git_collaboration/week3.png)
-![Screenshot](task_git_collaboration/week4.png)
+ ![Screenshot](task_git_collaboration/learning-it-branching-git-3.png)
+ ![Screenshot](task_git_collaboration/learning-it-branching-git-4.png)
+ ![Screenshot](task_git_collaboration/week3.png)
+ ![Screenshot](task_git_collaboration/week4.png)
 </details>
 
 ---
+## Intro to HTML and CSS
+On my mind, this material could be good just with Codeacademy practice, because they 
+give same information as teacher on Coursera lectures, but may be for somebody repeating
+same information could be useful in learning. Looking forward to continue practicing html and css.
+
+
+<details>
+ <summary>Results</summary>
+
+ ![Screenshot](task_html_css_intro/intro-to-html5.png)
+ ![Screenshot](task_html_css_intro/intro-to-css3.png)
+ ![Screenshot](task_html_css_intro/learn-html-css.png)
+</details>
