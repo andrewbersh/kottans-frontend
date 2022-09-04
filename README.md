@@ -102,7 +102,7 @@ css flexboxes and grids, that'll be really useful.
  <summary>Results</summary>
 
 ![Screenshot](task_responsive_web_design/flexbox-froggy.png)
-![Screenshot](task_responsive_web_design/grid-garder.png)
+![Screenshot](task_responsive_web_design/grid-garden.png)
 </details>
 
 ---
