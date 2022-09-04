@@ -12,7 +12,7 @@
 
 ### Front-End Basics
 - [x] 3. Intro to HTML & CSS
-- [ ] 4. Responsive Web Design
+- [x] 4. Responsive Web Design
 - [ ] 5. HTML & CSS Practice
 - [ ] 6. JavaScript Basics
 - [ ] 7. Document Object Model
@@ -88,6 +88,21 @@ same information could be useful in learning. Looking forward to continue practi
  ![Screenshot](task_html_css_intro/intro-to-html5.png)
  ![Screenshot](task_html_css_intro/intro-to-css3.png)
  ![Screenshot](task_html_css_intro/learn-html-css.png)
+</details>
+
+---
+
+---
+## Responsive Web Design
+That was good, I really like when learning combined with gaming practice. Now I know some basics of 
+css flexboxes and grids, that'll be really useful.
+
+
+<details>
+ <summary>Results</summary>
+
+![Screenshot](task_responsive_web_design/flexbox-froggy.png)
+![Screenshot](task_responsive_web_design/grid-garder.png)
 </details>
 
 ---
