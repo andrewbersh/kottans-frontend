@@ -1,0 +1,151 @@
+::-webkit-scrollbar {
+    width: 0.5rem;
+}
+
+::-webkit-scrollbar-track {
+    background-color: #f1f1f1;
+    border-radius: 0rem 1rem 1rem 0rem;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #888;
+    border-radius: 0rem 1rem 1rem 0rem;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background-color: #555
+}
+
+#header_navigation_list {
+    display: flex;
+    flex-flow: row;
+    list-style-type: none;
+    justify-content: flex-end;
+}
+
+.header_navigation_list_item {
+    margin-left: 2%;
+}
+
+.popup_menu_image{
+    width: 3em;
+    height: 3em;
+    transition: transform 0.25s;
+    cursor: pointer;
+}
+
+.popup_menu_image:hover {
+    transform: scale(1.3);
+}
+
+.header_navigation_list_item:focus{
+    border-color: #e4e4e4;
+    border-radius: 2em;
+}
+
+#popup_checkbox {
+    display: none;
+    position: absolute;
+}
+
+#popup_checkbox:focus{
+    border-color: #e4e4e4;
+    border-radius: 2em;
+}
+
+#popup {
+    position: absolute;
+    height: 13em;
+    overflow: hidden;
+    right: 0.3em;
+    visibility: hidden;
+    margin: 1em;
+    padding: 1em;
+    transition: transform 0.25s;
+    background-color: #f1f1f1;
+    border-radius: 1em;
+}
+
+#popup_list{
+    list-style-type: none;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 1em;
+    padding-inline-start: 0px;
+}
+
+#popup_checkbox:checked ~ #popup{
+    visibility: visible;
+}
+
+#popup_checkbox:not(:checked) ~ #popup{
+    visibility: hidden;
+}
+
+#popup_more{
+    display: none;
+}
+
+#popup_more_list{
+    list-style-type: none;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 1em;
+    padding-inline-start: 0px;
+}
+
+#popup_more_checkbox_label{
+    margin-top: 0.5em;
+    display: block;
+    text-align: center;
+    background-color: aliceblue;
+}
+
+
+#popup_more_checkbox:checked ~ #popup_more{
+    display: block;
+}
+
+#popup_more_checkbox:checked ~ #popup_more_checkbox_label {
+    visibility: hidden;
+}
+
+#popup:has(#popup_more_checkbox:checked) {
+    overflow-y: scroll;
+}
+
+#popup_checkbox:not(:checked) + #popup {
+    visibility: hidden;
+}
+
+main {
+    margin-top: 5em;
+    text-align: center;
+}
+
+#search_form {
+    border-radius: 1em;
+    border-color: #292D32;
+    padding: 1em;
+    margin: 0.3em;
+    font-size: 0.9em;
+}
+
+#search_button {
+    border-radius: 1em;
+    border-color: #292D32;
+    padding: 1em;
+    background-color: white;
+    cursor: pointer;
+    font-size: 0.9em;
+    font-weight: 600;
+    transition: transform 0.25s;
+}
+
+#search_button:hover {
+    transform: scale(1.1);
+}
+
+#search_button:focus{
+    transform: scale(1.1);
+}

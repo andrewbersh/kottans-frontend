@@ -1,0 +1,80 @@
+<html lang="en">
+<head>
+    <meta charset="UTF8">
+    <title>Hooli-style Popup</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="description" content="Example of hooli-style Popup">
+    <link rel="stylesheet" href="css/stylesheet.css">
+    <link rel="icon" type="image/x-icon" href="src/favicon.png">
+</head>
+<body>
+<header id="header_container">
+    <nav id="header_navigation">
+        <ul id="header_navigation_list">
+            <li class="header_navigation_list_item">
+                <a class="header_navigation_list_item_link" href="#">
+                    <img class="popup_menu_image" src="src/svg/mail.svg" alt="mail icon">
+                </a>
+            </li>
+            <li class="header_navigation_list_item">
+                <a class="header_navigation_list_item_link" href="#">
+                    <img class="popup_menu_image" src="src/svg/images.svg" alt="images icon">
+                </a>
+            </li>
+            <li class="header_navigation_list_item">
+                <input id="popup_checkbox" type="checkbox" />
+                <label id="popup_checkbox_icon_label" for="popup_checkbox" tabindex="0">
+                    <img class="popup_menu_image" src="src/svg/apps.svg" alt="popup menu icon">
+                </label>
+                <div id="popup">
+                    <ul id="popup_list">
+                        <li><img class="popup_menu_image" src="src/svg/translator.svg" alt="translator icon"></li>
+                        <li><img class="popup_menu_image" src="src/svg/wheather.svg" alt="wheather icon"></li>
+                        <li><img class="popup_menu_image" src="src/svg/calculator.svg" alt="calculator icon"></li>
+                        <li><img class="popup_menu_image" src="src/svg/calendars.svg" alt="calendars icon"></li>
+                        <li><img class="popup_menu_image" src="src/svg/calls.svg" alt="calls icon"></li>
+                        <li><img class="popup_menu_image" src="src/svg/chats.svg" alt="chats icon"></li>
+                        <li><img class="popup_menu_image" src="src/svg/maps.svg" alt="maps icon"></li>
+                        <li><img class="popup_menu_image" src="src/svg/notifications.svg" alt="notifications icon"></li>
+                        <li><img class="popup_menu_image" src="src/svg/paintings.svg" alt="paintings icon"></li>
+                    </ul>
+                    <input id="popup_more_checkbox" type="checkbox"  style="display: none;"/>
+                    <label id="popup_more_checkbox_label" for="popup_more_checkbox">
+                        More
+                    </label>
+                    <div id="popup_more">
+                        <ul id="popup_more_list">
+                            <li><img class="popup_menu_image" src="src/svg/translator.svg" alt="translator icon"></li>
+                            <li><img class="popup_menu_image" src="src/svg/bookmark.svg" alt="bookmark icon"></li>
+                            <li><img class="popup_menu_image" src="src/svg/calculator.svg" alt="calculator icon"></li>
+                            <li><img class="popup_menu_image" src="src/svg/calendars.svg" alt="calendars icon"></li>
+                            <li><img class="popup_menu_image" src="src/svg/calls.svg" alt="calls icon"></li>
+                            <li><img class="popup_menu_image" src="src/svg/chats.svg" alt="chats icon"></li>
+                            <li><img class="popup_menu_image" src="src/svg/maps.svg" alt="maps icon"></li>
+                            <li><img class="popup_menu_image" src="src/svg/notifications.svg" alt="notifications icon"></li>
+                            <li><img class="popup_menu_image" src="src/svg/paintings.svg" alt="paintings icon"></li>
+                            <li><img class="popup_menu_image" src="src/svg/passwords.svg" alt="passwords icon"></li>
+                            <li><img class="popup_menu_image" src="src/svg/savings.svg" alt="savings icon"></li>
+                            <li><img class="popup_menu_image" src="src/svg/settings.svg" alt="settings icon"></li>
+                        </ul>
+                    </div>
+                </div>
+            </li>
+            <li class="header_navigation_list_item">
+                <a class="header_navigation_list_item_link" href="#">
+                    <img class="popup_menu_image" src="src/svg/profile.svg" alt="profile icon">
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main>
+    <input type="text" id="search_form" placeholder="Input your question here" required maxlength="100" size="50" />
+    <input type="button" id="search_button" value="search" />
+</main>
+</body>
+</html>
+
+
+
