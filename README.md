@@ -13,7 +13,7 @@
 ### Front-End Basics
 - [x] 3. Intro to HTML & CSS
 - [x] 4. Responsive Web Design
-- [ ] 5. HTML & CSS Practice
+- [x] 5. HTML & CSS Practice
 - [ ] 6. JavaScript Basics
 - [ ] 7. Document Object Model
 
@@ -104,5 +104,15 @@ css flexboxes and grids, that'll be really useful.
 ![Screenshot](task_responsive_web_design/flexbox-froggy.png)
 ![Screenshot](task_responsive_web_design/grid-garden.png)
 </details>
+
+---
+
+---
+## HTML & CSS Practice
+Some things were really challenging, but when I have understood how to make popup button via hidden checkbox - 
+things became easier:) Also it was some sort of quest to make more button, but now it's done! 
+
+
+<a href="https://andrewbersh.github.io/" target="_blank">Link to website</a>
 
 ---
